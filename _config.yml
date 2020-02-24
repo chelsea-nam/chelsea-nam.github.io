@@ -1,17 +1,20 @@
 name: Chelsea Nam
-
 web_url: "bell.atmos.colostate.edu"
 url: "chelsea-nam.github.io"
 keywords: "Tropical cyclogenesis, pedagogy, atmospheric science, PhD, colorado state university, hurricane"
 title: Chelsea Nam's website
 email: ccnam@colostate.edu
 description: "Chelsea Nam's Research and Teaching Website. In this website, you will find her research on Tropical Cyclone Genesis using ensemble model simulaitons, radar observations and reanalyses, and her teaching philsophy and experiences in Atmosperic Sciences" 
-
 permalink: /blog/:year/:month/:day/:title
-
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  
-  
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
