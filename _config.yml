@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Colorado State University (CSU) Sea-Going Polarimetric (SEA-POL) Radar"
+title                    : "CSU Sea-Pol Radar"
 title_separator          : "-"
-subtitle                 : "a National Science Foundation (NSF) community facility"
+subtitle                 : "Colorado State University (CSU) Sea-Going Polarimetric (SEA-POL) Radar, a National Science Foundation (NSF) community facility"
 name                     : "SEA-POL Radar"
-description              : "The Colorado State University (CSU) Sea-Going Polarimetric (SEA-POL) radar, a National Science Foundation (NSF) community facility"
+description              : "SEA-POL is a dual-polarization ship-deployable C-band radar featuring dynamic platform stabilization"
 url                      : "https://seapol.colostate.edu/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+repository               : "/csu-tropical/seapol"
+teaser                   : "/assets/seapol_banner.png"
+logo                     : "SEAPOL_piston2018.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -104,7 +104,9 @@ analytics:
 author:
   name             : "SEA-POL Radar"
   avatar           : "SEAPOL_piston2018.jpg"
-  bio              : "For more information, please contact us via email. This website is still under construction. More information will be added "
+  bio              : "Sea-Pol is a dual-polarization ship-deployable C-band radar featuring\
+  dynamic platform stabilization.\ For more information, please contact us via email.\
+  This website is still under construction; more information will be added."
   location         : "Colorado State University"
   # email            : "seapol-request@lists.colostate.edu"
   links:

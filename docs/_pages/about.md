@@ -1,85 +1,91 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+title: "Specification"
+excerpt: "Sea-Pol is a dual-polarization ship-deployable C-band radar
+featuring dynamic platform stabilization"
 layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2021-05-11T10:23:16-04:00
+  - url: /assets/seapol_banner.png
+    image_path: /assets/seapol_banner.png
+    alt: "seapol 2019"
+  - url: /assets/seapol_piston2018.jpg
+    image_path: /assets/seapol_piston2018.jpg
+    alt: "seapol 2018"
+last_modified_at: 2022-01-25
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+The CSU Sea-Pol ship- and land-deployable radar measures dual-polarization data over a range in excess of 200 km. It is designed for operation aboard Global-class research ships operated by the US oceanographic community. The radar operates at C-band (5.65 GHz) and has a 4.3m stabilized antenna system.
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+An inertial navigation unit (INU) measures ship motion and sends compensation commands to the antenna positioner. Doppler velocity data is also corrected for ship velocity. This permits high quality data to be collected at sea, correcting for ship roll and pitch up to 7 degrees.
 
-## Notable Features
+The radar operates in simultaneous transmit and receive mode, as well as horizontal-only mode, with a sensitivity of -7 dBZ at 100 km. A variety of pulse widths and PRFs are supported, within a 0.12% duty cycle limit.
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), [giscus](https://giscus.app/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+## Technical Data
 
-## Demo Pages
+### System Specifications
+| Input power              | Single phase 240V/100A or 480V/50A, 60 Hz    |
+| Power connection         | Meltric DS100 series 240V or 480V connectors |
+| Typical radar power      | 4500 W                                       |
+| Typical HVAC power       | 8000 W                                       |
+| External data connection | Ethernet (CAT5e/fiber-optic)                 |
+| Data rate required       | 10 Mb/s (min), 100 Mb/s (optimal)            |
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+### Antenna Platform and Radome
+| Radome type             | 5.4 m, fiberglass panels                      |
+| Platform height         | 10ft/3m from decks |
+| Total height      | 27ft/8.4m from deck   |
+| Environmental Specifications    | 115 mph/185 km/h windspeed       |
+| Radar shelter | 20’ ISO 1C container, with HVAC, insulation       |
 
-For even more demo pages check the [posts archive][year-archive].
+### Pedestal
+| Type              | Elevation over azimuth        |
+| Elevation limits       | -5° — 80° |
+| Maximum scan rate      | 30 °/s<sup>2</sup> |
+| Acceleration       | 12 °/s   |
+| Position accuracy | < 0.1°                |
+| Weight       |  800 kg         |
 
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
+### Transmitter
+|   Type                   |   Coaxial magnetron SFD-373A   |
+|   Modulator type         |   Solid state                  |
+|   Frequency range        |   5.5 – 5.7 GHz                |
+|   Peak power             |   250 kW                       |
+|   Pulse widths           |   0.36, 0.67, 1.24 or 2.0 μs   |
+|   Duty Cycle             |   0.12% maximum                |
+|   Pulse Rep. Frequency   |   50 – 2400 Hz                 |
+|   Average Power          |   300 W                        |
+|   Polarization Modes     |   HV, H                        |
 
----
+### Antenna
+|   Reflector diameter           |   4.3 m                      |
+|   Gain (typical)               |   45 dBi                     |
+|   Beam width                   |   < 1.0°                     |
+|   Peak side lobes              |   < -27 dB (typ. < -30 dB)   |
+|   Integrated X-pol isolation   |   < -29 dB                   |
+|   X-pol isol. at boresight     |   < -40 dB                   |
+|   H/V alignment                |   < 0.1 °                    |
+|   Weight                       |   170                        |
 
-## Credits
+### Signal Processing
+|   Signal processor                |   Vaisala RVP900                                 |
+|   Azimuth averaging               |   2 – 1024 pulses                                |
+|   Clutter filter                  |   Adaptive (GMAP), > 50 dB clutter suppression   |
+|   Data outputs                    |   All dual-polarization moment data              |
+|   Dual PRF velocity de-aliasing   |   2:3, 3:4 or 4:5                                |
+|   IF digitization                 |   16 bit, 100 MHz                                |
+|   Number of range bins            |   Up to 8168                                     |
+|   Optional data output            |   Raw I/Q time-series                            |
+|   Processing modes                |   Pulse pair, FFT                                |
+|   Range resolution                |   54, 100, 180 or 300m                           |
 
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+### Radar Receiver
+|   Type              |   Dual-stage, dual-channel IF downconverter and digitizer   |
+|---------------------|-------------------------------------------------------------|
+|   Noise figure      |   < 3.5 dB                                                  |
+|   Dynamic Range     |   > 99 dB                                                   |
+|   Image rejection   |   > 100 dB (including waveguide filters)                    |
+|   Tuning range      |   5.5 – 5.7 GHz                                             |
+|   First IF          |   442 MHz                                                   |
+|   Second IF         |   60 MHz                                                    |
