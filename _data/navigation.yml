@@ -8,6 +8,8 @@ main:
     url: /about/
   - title: "Deployment"
     url: /deployment/
+  - title: "Request"
+    url: /request/
 
   # - title: "Sample Posts"
   #   url: /year-archive/
