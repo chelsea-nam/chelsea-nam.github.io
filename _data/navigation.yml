@@ -1,10 +1,7 @@
 # main links
 main:
 
-  - title: "Pamplet"
-    icon: "fa-file-download"
-    url: /assets/seapol_datasheet.pdf
-  - title: "Technical Specification"
+  - title: "Specification"
     url: /about/
   - title: "Deployment"
     url: /deployment/
