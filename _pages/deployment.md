@@ -8,6 +8,12 @@ The Sea-Pol radar is based in Greeley, Colorado, at Colorado State University. I
 The radar is packaged in ISO-668 1C containers for transportability and ease of deployment.
 An example of such a deployment is the 2019 PISTON-2 field campaign where Sea-Pol was shipped to Keelung, Taiwan, loaded onto the R/V Sally Ride and spent 22 days at sea in support of the campaign.
 
+<center><div>
+<img src="/assets/seapol_exper-map.png" width="100%" alt="Map of SeaPol deployments"></div>
+<p width="90%"><small><italic> A map of Sea-Pol radar deployment locations.
+Lines show ship tracks and a diamond indicates a land-based deployment.</italic></small></p>
+</center>
+
 ### Past Deployments
 * October - November 2017, R/V Roger Revelle (San Diego -> Eastern Pacific -> San Diego)
 * August - September - October 2018, R/V Thomas G Thompson (Kaohsiung City Taiwan -> Palau -> Kaohsiung Taiwan)
