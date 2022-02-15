@@ -1,12 +1,16 @@
 # main links
 main:
-
+  - title: "Request"
+    url: /request/
   - title: "Specification"
     url: /about/
   - title: "Deployment"
     url: /deployment/
-  - title: "Request"
-    url: /request/
+  - title: "History"
+    url: /history/
+  - title: "Publications"
+    url: /publications/
+
 
   # - title: "Sample Posts"
   #   url: /year-archive/

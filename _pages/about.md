@@ -9,8 +9,8 @@ permalink: /about/
 The CSU Sea-Pol ship- and land-deployable radar measures dual-polarization data over a range in excess of 200 km. The radar operates at C-band (5.65 GHz) and has a 4.3m stabilized antenna system. An inertial navigation unit (INU) measures ship motion and sends compensation commands to the antenna positioner. Doppler velocity data is also corrected for ship velocity. This permits high quality data to be collected at sea, correcting for ship roll and pitch up to 7 degrees. The radar operates in simultaneous transmit and receive mode, as well as horizontal-only mode, with a sensitivity of -7 dBZ at 100 km. A variety of pulse widths and PRFs are supported, within a 0.12% duty cycle limit.
 
 <center><div>
-<img src="/assets/seapol_piston2018.jpg" width="90%" alt="Sea-Pol in 2018"></div>
-<p><small><italic> Sea-Pol radar deployed on R/V Thompson in 2018 </italic></small></p>
+<img src="/assets/seapol_spec.png" width="90%" alt="Sea-Pol Diagram"></div>
+<p><small><italic> Sea-Pol Techincal Specifications </italic></small></p>
 </center>
 
 ## Technical Data
