@@ -21,7 +21,7 @@ Geosciences, The University of Sydney, Australia
 
 
 <center><div>
-<img src="/assets/solo_2.png" width="60%" alt="PhD graduation"></div>
+<img src="/assets/solo_2_min.png" width="60%" alt="PhD graduation"></div>
 <p><small><italic> At PhD commencement </italic></small></p>
 </center>
 
@@ -61,7 +61,7 @@ Undergraduate Research Intern, Department of Oceanography, Seoul National Univer
 *Instructor*, Introduction to Weather & Climate Lab (ATS 351), Colorado State University
 
 <center><div>
-<img src="/assets/ATS351.png" width="90%" alt="teaching"></div>
+<img src="/assets/ATS351_min.png" width="90%" alt="teaching"></div>
 <p><small><italic> Lab class in front of CSU’s weather station Fall 2019 </italic></small></p>
 </center>
 

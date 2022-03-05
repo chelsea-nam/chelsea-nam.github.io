@@ -1,46 +1,27 @@
 ---
-title: "Publications using Sea-Pol"
+title: "Publications"
 layout: single
 permalink: /publications/  
 ---
 
-## Publication List
+Click the title to download PDF :)
 
-- Trabing, B. C., and M. M. Bell, 2021: Observations of Diurnal Variability under the Cirrus Canopy of Typhoon Kong-rey
-(2018). Mon. Wea. Rev., 149, 2945-2964, https://doi.org/10.1175/MWR-D-20-0327.1
-- Chudler, K. and S. A. Rutledge, 2021: The coupling between convective variability and large-scale flow patterns
-observed during PISTON 2018-2019. J. Climate, 34, 7199-7218, https://doi.org/10.1175/JCLI-D-20-0785.1
-- Rutledge, S.A., V. Chandrasekar, B. Fuchs, J. George, F. Junyent, B. Dolan, P.C. Kennedy, and K. Drushka, 2019: SEA-POL Goes to Sea. Bull. Amer. Meteor. Soc., 100, 2285–2301, https://doi.org/10.1175/BAMS-D-18-0233.1
-- Rutledge, S.A., V. Chandrasekar, B. Fuchs, J. George, F. Junyent, P. Kennedy, and B. Dolan, 2019. Deployment of the
-SEA-POL C-band polarimetric radar to SPURS-2. Oceanography 32(2), 50-57, https://doi.org/10.5670/oceanog.2019.212
+## Peer-Reviewed Journal
 
+**Nam, C. C.**, M. M. Bell, 2021: [Multi-scale shear impacts during the genesis of Hagupit (2008)](/assets/nam-bell_2021.pdf). *Monthly Weather Review*, 149, 551-569 , https://doi.org/10.1175/MWR-D-20-0133.1
 
-## Example data from the SPURS-2 project
+Martinez, J., **C. C. Nam**, M. M. Bell, 2020: [On the Contributions of Incipient Vortex Circulation and Environmental Moisture to Tropical Cyclone Expansion](/assets/Martinez_Nam_JGR_2020.pdf). *Journal of Geophysical Research*, 125, e2020JD033324 , https://doi.org/10.1029/2020JD033324
 
-<center><div>
-<img src="/assets/spurs_example.png" width="90%" alt="Spurs Data"></div>
-<p><small><italic> Range–height indicator (RHI) plots of (a) reflectivity, (b) Doppler radial velocity corrected for storm motion, (c) differential reflectivity, (d) copolar correlation coefficient, (e) specific differential phase, and (f) hydrometeor classification at 1812:54 UTC 28 Oct 2017 facing east (84° azimuth). From Rutledge et al. (2019)
-</italic></small></p>
-</center>
+**Nam, C.C.**, D-S R. Park, C-H Ho, and D. Chen, 2018: [Dependency of tropical cyclone risk on track in South Korea](/assets/nam_etal_2018.pdf). *Nat. Hazards Earth Syst. Sci.*, 18, 3225-3224 , https://doi.org/10.5194/nhess-18-3225-2018
 
+Park, D.-S. R, C.-H. Ho, J. Kim, K. Kang, and **C. C. Nam**, 2016: [Highlighting socioeconomic damages caused by weakened tropical cyclones in the Republic of Korea](/assets/park_etal_2016.pdf). *Nat. Hazards*, 82, 1301-1315 , https://ideas.repec.org/a/spr/nathaz/v82y2016i2d10.1007_s11069-016-2244-x.html
 
-## Example data from the PISTON 2018 project
+Park, D.-S. R, C.-H. Ho, **C. C. Nam**, and H.-S. Kim,, 2015: [Evidence of reduced vulnerability to tropical cyclones in the Republic of Korea](/assets/park_etal_2015.pdf). *Env. Res. Lett.*, Vol. 10, No. 5 , http://dx.doi.org/10.1088/1748-9326/10/5/054003
 
-<center><div>
-<img src="/assets/piston_example.png" width="90%" alt="PISTON Data"></div>
-<p><small><italic> Colored circles in (a) are the evolution of the hourly median
-reflectivity profile from gridded SEA-POL data. Contoured in
-black are the relative radial winds of Typhoon Kong-Rey
-derived from the thermodynamic profiles exceeding 20 m s-1.
-(b)–(h) Vertical dotted lines indicate the times of the
-corresponding 2-km altitude horizontal cross sections. The gray
-shaded region is where SEA-POL was not transmitting and
-collecting observations, which changes with ship heading.
-Times where no solar radiation is affecting the cloud
-distribution sare denoted for reference. Both color bars use
-increments of 2 dBZ; however, the evolution of the median
-reflectivity and the cross sections use slightly different color
-bars because of the differences in the range of values. From
-Trabing and Bell (2021)
-</italic></small></p>
-</center>
+## Thesis & Dissertation
+
+### Ph. D.
+Nam, C. C., 2021: [Multi-Scale Interactions Leading to Tropical Cyclogenesis in Sheared Environments](/assets/PhD_thesis_CNam.pdf), Colorado State University.
+
+### Master's thesis
+Nam, C. C., 2017: [Typhoon track and extra-tropical transition as the decisive factors for the risk distribution in South Korea](/assets/MS_thesis_CNam.pdf), Seoul National University.
