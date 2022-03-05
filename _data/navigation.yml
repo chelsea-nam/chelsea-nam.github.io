@@ -1,15 +1,15 @@
 # main links
 main:
-  - title: "Request"
-    url: /request/
-  - title: "Specification"
+  - title: "About"
     url: /about/
-  - title: "Deployment"
-    url: /deployment/
-  - title: "History"
-    url: /history/
+  - title: "Research"
+    url: "https://tropical.colostate.edu/member_research/nam.html"
+  # - title: "Presentations"
+  #   url: /presentations/
   - title: "Publications"
-    url: /publications/
+    url: "https://tropical.colostate.edu/member_publication/nam.html"
+  - title: "Contact"
+    url: /contact/
 
 
   # - title: "Sample Posts"

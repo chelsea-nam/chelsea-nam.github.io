@@ -1,3 +1,7 @@
+<head>
+        <script src="https://kit.fontawesome.com/8e44de192d.js" crossorigin="anonymous"></script>
+</head>
+<body>
 <div class="page__footer-follow">
   <!-- <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
@@ -16,10 +20,10 @@
       <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endunless %}
   </ul> -->
-  <li><a href="mailto:seapol-request@lists.colostate.edu" target="_blank"><i class="{{'fas fa-fw fa-envelope-square' }}"></i> Email (seapol-request@lists.colostate.edu)</a></li>
-  <li><a href="https://tropical.colostate.edu" target="_blank"><i class="{{'fas fa-link' }}"></i> The CSU Tropical Weather Climate research group</a></li>
-  <li><a href="https://nsf.gov/awardsearch/showAward?AWD_ID=2113042&HistoricalAwards=false" target="_blank"><i class="{{'fas fa-link' }}"></i> Sea-Pol's page on NSF CIF website</a></li>
+  <li><a href="mailto:ccnam@colostate.edu" target="_blank"><i class="{{'fas fa-fw fa-envelope-square' }}" style="color:white"></i> Email Chelsea </a></li>
+  <li><a href="https://tropical.colostate.edu" target="_blank"><i class="{{'fas fa-link' }}"  style="color:white"></i> CSU Tropical Weather Climate research group</a></li>
 
 
 </div>
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+</body>

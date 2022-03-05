@@ -12,20 +12,20 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CSU Sea-Pol Radar"
+title                    : "Chelsea Nam (Ph.D)"
 title_separator          : "-"
-subtitle                 : "Colorado State University (CSU) Sea-Going Polarimetric (SEA-POL) Radar, a National Science Foundation (NSF) community facility"
-name                     : "SEA-POL Radar"
-description              : "SEA-POL is a dual-polarization ship-deployable C-band radar featuring dynamic platform stabilization"
-url                      : "https://seapol.colostate.edu/"
+subtitle                 : "Tropical Cyclone Researcher's Personal Homepage"
+name                     : "Chaehyeon Chelsea Nam"
+description              : "Tropical cyclone researcher (postdoctoral fellow) at Colorado State University"
+url                      : "https://chelsea-nam.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "/csu-tropical/seapol"
-teaser                   : "/assets/seapol_banner.png"
-logo                     : "SEAPOL_piston2018.jpg"
+repository               : "/chelsea-nam/chelsea-nam.github.io"
+teaser                   : "/assets/CNam_head.png"
+logo                     : "/assets/BellGroupLogo_TS.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -102,16 +102,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "SEA-POL Radar"
-  avatar           : "SEAPOL_piston2018.jpg"
-  bio              : "Sea-Pol is a dual-polarization ship-deployable C-band radar featuring\
-  dynamic platform stabilization.\ If you need more information or are interested in requesting Sea-Pol, please contact us via email :) "
+  name             : "Dr. Chaehyeon Chelsea Nam"
+  avatar           : "/assets/CNam_head.png"
+  bio              : "남채현 박사의 홈페이지에 오신 것을 환영합니다.
+  Welcome to my homepage! I am a postdoctoral fellow who studies tropical cyclones using radar observations and numerical simulations.
+  Contact me via email if you have any questions. "
   location         : "Colorado State University"
   # email            : "seapol-request@lists.colostate.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:seapol-request@lists.colostate.edu"
+      url: "mailto:ccnam@colostate.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
