@@ -1,7 +1,9 @@
 ---
 title: "Contact Me"
 layout: single
-
+author_profile: true
+classes:
+  - wide
 permalink: /contact/  
 ---
 
@@ -15,8 +17,8 @@ For questions or collaboration, contact me via email!
 <br><br>
 
 <center><div>
-<img src="/assets/defense_talk.png" width="80%" alt="seminar_image"></div>
-<p><small><italic> PhD Defense Seminar at CSU </italic></small></p>
+<img src="/assets/banner_balloon.jpeg" width="80%" alt="seminar_image"></div>
+<p><small><italic> Launching Weather Balloon at Christman Field, Fort Collins </italic></small></p>
 </center>
 
 

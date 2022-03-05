@@ -1,16 +1,60 @@
 ---
-title: "Presentations"
+title: "Selected Presentations"
 layout: single
+author_profile: true
+classes:
+  - wide
 permalink: /presentations/  
 ---
-
-The first shipborne radars were deployed in GATE (GARP Atlantic Tropical Experiment) in 1974. In GATE, four ships were outfitted with 5-cm wavelength (C-band) reflectivity-only radars to examine the structure of tropical MCSs. A wealth of new findings regarding squall lines and accompanying stratiform precipitation emerged from GATE even though antenna scanning was not stabilized for ship motions and no Doppler velocity data were available. The Equatorial Mesoscale Experiment (EMEX) in 1987 also deployed a ship-based C-band Doppler radar and like like the GATE radar deployment, the radar (MIT C-band) was not stabilized for ship motions. The first deployment of ship-based, stabilized Doppler radars was done five years later in TOGA COARE (Tropical Ocean Global Atmosphere-Coupled Ocean Atmosphere Response Experiment 1992), utilizing two Doppler radars, the MIT C-band deployed on a U.S. research ship and the NOAA TOGA C-band radar (now the NASA-TOGA radar) deployed on a research ship from China. The TOGA COARE ship radars provided new information about rainfall and convection over the Western Pacific Warm Pool. In fact, TOGA COARE also marked the first ship-based dual-Doppler observations, as the two ships carrying these radars approached within 40 km of one another for approximately one half day to carry out dual-Doppler observations of oceanic convection.
+<!-- <center>
+<video width="80%" controls>
+  <source src="/assets/20211101-Nam.mp4" type="video/mp4">
+</video>
+<p><small><italic> PhD defense recorded video </italic></small></p>
+</center> -->
+<br>
 
 <center><div>
-<img src="/assets/seapol_piston2018.jpg" width="90%" alt="Sea-Pol in 2018"></div>
-<p><small><italic> Sea-Pol radar deployed on R/V Thompson in 2018 </italic></small></p>
+<img src="/assets/defense_talk.png" width="80%" alt="seminar_image"></div>
+<p><small><italic> PhD Defense Seminar at CSU </italic></small></p>
 </center>
 
-Following TOGA COARE, many field projects benefitted from the use of ship-based Doppler radars including TEPPS (Tropical Eastern Pacific Process Study 1997), SCSMEX (South China Sea Mesoscale Experiment 1998), KWAJEX (Kwajalein Experiment 1999), JASMINE (Joint Air-Sea Monsoon Interaction Experiment 1999), EPIC (East Pacific Investigation of Climate Processes in the Coupled Ocean-Atmosphere System 2001), VOCALS (VAMOS Ocean-Cloud-Atmosphere-Land Study 2007) and DYNAMO (Dynamics of the Madden Julian Oscillation 2011). These projects, with the exception of SCSMEX and DYNAMO, used the C-band Doppler radar on the R/V Ronald H. Brown (RHB), which became a workhorse for ship-based Doppler deployments over this period of time. However, in 2013, NOAA decided to remove the C-band radar from the RHB and donate the radar to Colorado State University (CSU) with the understanding it would be “resurrected” and utilized again aboard ships for research and education purposes. In August 2015, CSU was awarded a Major Research Instrumentation grant from the National Science Foundation (NSF), which funded the design and development of the SEA-POL C-band Doppler, dual-polarization radar. SEA-POL was specifically built to ensure easy and economical deployment on multiple ships within the UNOLS global class fleet including the R/V Roger Revelle, R/V Thomas G. Thompson, and R/V Atlantis. SEA-POL can also be deployed on the newer, slightly smaller U.S research ships including the R/V Sally Ride and the R/V Neil Armstrong.
 
-The design and construction of SEA-POL focused on building a radar that would be rugged from mechanical and electrical perspectives, since the radar was intended to deploy on board ships. Two components from the RHB radar were used in the construction of SEA-POL, the C-band magnetron transmitter and the antenna positioner (or pedestal, which was completely rebuilt down to the last nut and bolt). All other components were either supplied by a commercial vendor or designed and built in-house at CSU. Magnetron transmitters are robust, efficient devices that, when coupled with a coherent-on-receive digital signal processor, provide high quality data. The radio frequency (RF) environment aboard a research ship can be difficult for C-band radar operation due to interference from other shipboard equipment. Particular attention to out-of-band rejection in the receiver was used to filter out unwanted RF energy. The radar is designed to accept prime power sources available on land (208V) and sea (480V). The radar shelter uses a standard-sized seatainer which houses the radar transmitter, signal processor, data recording system and computers and displays for monitoring SEA-POL data in real time. The seatainer is cooled using a marine-rated air conditioning system. A radome dehydrator system maintains a “dry” environment inside the radome, around the antenna and sensitive receiver electronics.
+
+### 2022
+**Invited talk**, "Multi-scale interactions leading totropical cyclogenesisin sheared environments", Kyubook National Univ. (KNU) at Daegu, South Korea
+
+### 2021
+Oral presentation, “Bifurcation points for tropical cyclone genesis in sheared and dry environments”, the 14th International Conference on Mesoscale Convective Systems and High-Impact Weather in East Asia (ICMCS-XIV)
+
+### 2020
+**Invited talk**, “Tropical cyclone formation mechanism observed by airborne and shipborne radars”, National Institute of Meteorological Science (NIMS) at Jeju, South Korea
+
+### 2019
+Oral presentation, “Bifurcation points for tropical cyclone genesis in sheared and dry environments”, American Geophysical Union (AGU) Fall Meeting 2019
+
+Oral presentation, “Easterly Waves and Invest98 During PISTON 2018”, PISTON workshop at CSU
+
+Oral presentation, “Chronic Flooding of Ellicott City, MD”, 2019 NCAR ASP summer colloquium
+
+### 2018
+Oral presentation, “Decisive Factors for Typhoon Risk Distribution in South Korea”, 33rd American Meteorological Society (AMS) Conference on Hurricanes and Tropical Meteorology
+
+Poster presentation, “Multi-Scale Shear Impacts During the Genesis of Typhoon Hagupit (2008)”, 33rd AMS Conference on Hurricanes and Tropical Meteorology
+
+### 2016
+Poster presentation, “Tropical cyclone risk analysis: a decisive role of its
+track”, European Geoscience Union (EGU) General Assembly
+
+
+### 2015
+Oral presentation, “Track dependency of tropical cyclone impacts in South
+Korea”, The Korean Society of Climate Change Research annual
+Conference
+
+### 2014
+Oral presentation, “Evidence of mitigation effect of tropical cyclone damages
+in Republic of Korea”, Korean Meteorological Society fall meeting
+
+Poster presentation, “How sensitive is generalized linear Rossby wave theory to uncertainties in the determination of the background mean flow?”,
+AGU Ocean Sciences meeting

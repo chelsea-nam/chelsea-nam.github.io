@@ -1,6 +1,9 @@
 ---
 title: "Chelsea Nam's Curriculum Vitae"
 layout: single
+classes:
+  - wide
+author_profile: true
 permalink: /about/  
 ---
 
@@ -21,7 +24,7 @@ Geosciences, The University of Sydney, Australia
 
 
 <center><div>
-<img src="/assets/solo_2_min.png" width="60%" alt="PhD graduation"></div>
+<img src="/assets/solo_2-min.png" width="60%" alt="PhD graduation"></div>
 <p><small><italic> At PhD commencement </italic></small></p>
 </center>
 
@@ -61,7 +64,7 @@ Undergraduate Research Intern, Department of Oceanography, Seoul National Univer
 *Instructor*, Introduction to Weather & Climate Lab (ATS 351), Colorado State University
 
 <center><div>
-<img src="/assets/ATS351_min.png" width="90%" alt="teaching"></div>
+<img src="/assets/ATS351-min.png" width="90%" alt="teaching"></div>
 <p><small><italic> Lab class in front of CSU’s weather station Fall 2019 </italic></small></p>
 </center>
 
@@ -80,8 +83,8 @@ Weather forecaster for the PISTON-2019 field campaign
 Radiosonde and radar operation in on the ship for the PISTON field campaign in the west Pacific
 
 <center><div>
-<img src="/assets/PISTON.png" width="90%" alt="field_campaign"></div>
-<p><small><italic> In front of R/V Thompson at Palau in 2018 </italic>
+<img src="/assets/SEA-POL_2018_CNam.jpeg" width="90%" alt="field_campaign"></div>
+<p><small><italic> SEA-POL on R/V Thompson at sunset during PISTON 2018 </italic>
 </small></p></center>
 
 
