@@ -6,7 +6,7 @@ classes:
   - wide
 permalink: /publications/  
 ---
-> Click the title to download PDF :)
+> Click the title and you can download the full article or thesis PDF files. 
 
 ## Peer-Reviewed Journal
 
