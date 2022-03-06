@@ -34,12 +34,12 @@ Geosciences, The University of Sydney, Australia
 **2017 FA – 2021 FA**
 Graduate Research Assistant (Ph.D.), Colorado State University
 - Advisor: Michael M. Bell
-- Dissertation: Multi-scale interactions leading to tropical cyclogenesis in sheared environments
+- Dissertation: [Multi-scale interactions leading to tropical cyclogenesis in sheared environments](/assets/MS_thesis_CNam.pdf)
 
 **2015 SP – 2016 FA**
-- Graduate Research Assistant (M.S.), Seoul National University
+Graduate Research Assistant (M.S.), Seoul National University
 - Advisor: Chang-Hoi Ho
-Thesis title: Decisive Factors for Typhoon Risk in South Korea: Track and Extratropical transition
+- Thesis: [Decisive Factors for Typhoon Risk in South Korea: Track and Extratropical transition](/assets/PhD_thesis_CNam.pdf)
 
 **2014 Summer**
 Undergraduate Summer Vacation Research Intern, Australia Research Council Centre of Excellence for Climate System Science
