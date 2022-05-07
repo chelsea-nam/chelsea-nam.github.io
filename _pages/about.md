@@ -116,10 +116,12 @@ Radiosonde and radar operation in on the ship for the PISTON field campaign in t
 
 Programming:
 - Data analysis: Python, NCL, Fortran
+- Experiences working with the NCAR and TACC stampede2 supercomputing facilities
+- Setup and run ensemble numerical simulations using WRF and CM1
 - Web programming: Jekyll, HTML
-    https://tropical.colostate.edu/
-    https://seapol.colostate.edu/
-    https://precip.org/
-- Linux super computer experience
+    [Bell group website](https://tropical.colostate.edu/),
+    [SEA-POL radar website](https://seapol.colostate.edu/),
+    [PRECIP field campaign website](https://precip.org/)
+
 
 Fluent in Korean and English
