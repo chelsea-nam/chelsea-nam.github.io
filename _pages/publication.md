@@ -10,9 +10,12 @@ permalink: /publications/
 
 ## Peer-Reviewed Journal
 
-**Nam, C. C.**, M. M. Bell, D. Tao, Under review: Bifurcation points for tropical cyclone genesis in sheared and dry environments. *Journal of Atmospheric Sciences*.
+**Nam, C. C.**, D-S R. Park, Submitted: Decisive factors of tropical cyclone risk over South Korea: intensity, track, and
+extratropical transition. *Weather, Climate, and Society*.
 
-Kim, D., D-S R. Park, **C. C. Nam**, M. M. Bell, major revision: The parametric hurricane rainfall model with moisture and its application to climate change projections. *npj Climate and Atmospheric Science*.
+**Nam, C. C.**, M. M. Bell, D. Tao, Major revision: Bifurcation points for tropical cyclone genesis in sheared and dry environments. *Journal of Atmospheric Sciences*.
+
+Kim, D., D-S R. Park, **C. C. Nam**, M. M. Bell, Under review: The parametric hurricane rainfall model with moisture and its application to climate change projections. *npj Climate and Atmospheric Science*.
 
 **Nam, C. C.**, M. M. Bell, 2021: [Multi-scale shear impacts during the genesis of Hagupit (2008)](/assets/nam-bell_2021.pdf). *Monthly Weather Review*, 149, 551-569, [https://doi.org/10.1175/MWR-D-20-0133.1](https://doi.org/10.1175/MWR-D-20-0133.1)
 
