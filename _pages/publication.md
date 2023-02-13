@@ -10,12 +10,11 @@ permalink: /publications/
 
 ## Peer-Reviewed Journal
 
-**Nam, C. C.**, D-S R. Park, *in Revision*: Decisive factors of tropical cyclone risk over South Korea: intensity, track, and
-extratropical transition. *Weather, Climate, and Society*.
-
 **Nam, C. C.**, M. M. Bell, D. Tao, *Under Review*: Bifurcation points for tropical cyclone genesis in sheared and dry environments. *Journal of Atmospheric Sciences*.
 
-Kim, D., D-S R. Park, **C. C. Nam**, M. M. Bell, *Accepted*: The parametric hurricane rainfall model with moisture and its application to climate change projections. *npj Climate and Atmospheric Science*.
+**Nam, C. C.**, D-S R. Park, *Accepted*: [Decisive factors of tropical cyclone risk over South Korea: intensity, track, and extratropical transition](/assets/Nam_etal_APJAS_accepted.pdf). *Asia-Pacific Journal of Atmospheric Sciences*.
+
+Kim, D., D-S R. Park, **C. C. Nam**, M. M. Bell, 2022: [The parametric hurricane rainfall model with moisture and its application to climate change projections](/assets/Kim_etal_npj_2022.pdf). *npj Climate and Atmospheric Science*, 5, 86, [https://doi.org/10.1038/s41612-022-00308-9](https://doi.org/10.1038/s41612-022-00308-9)
 
 **Nam, C. C.**, M. M. Bell, 2021: [Multi-scale shear impacts during the genesis of Hagupit (2008)](/assets/nam-bell_2021.pdf). *Monthly Weather Review*, 149, 551-569, [https://doi.org/10.1175/MWR-D-20-0133.1](https://doi.org/10.1175/MWR-D-20-0133.1)
 
