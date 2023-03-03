@@ -12,7 +12,7 @@ permalink: /publications/
 
 **Nam, C. C.**, M. M. Bell, D. Tao, *Under Review*: Bifurcation points for tropical cyclone genesis in sheared and dry environments. *Journal of Atmospheric Sciences*.
 
-**Nam, C. C.**, D-S R. Park, *Accepted*: [Decisive factors of tropical cyclone risk over South Korea: intensity, track, and extratropical transition](/assets/Nam_etal_APJAS_accepted.pdf). *Asia-Pacific Journal of Atmospheric Sciences*.
+**Nam, C. C.**, D-S R. Park, C-H Ho, 2023: [Decisive factors of tropical cyclone risk in the Republic of Korea: intensity, track, and extratropical transition](/assets/Nam_etal_2023_APJAS.pdf). *Asia-Pacific Journal of Atmospheric Sciences*., [https://doi.org/10.1007/s13143-023-00318-4](https://doi.org/10.1007/s13143-023-00318-4)
 
 Kim, D., D-S R. Park, **C. C. Nam**, M. M. Bell, 2022: [The parametric hurricane rainfall model with moisture and its application to climate change projections](/assets/Kim_etal_npj_2022.pdf). *npj Climate and Atmospheric Science*, 5, 86, [https://doi.org/10.1038/s41612-022-00308-9](https://doi.org/10.1038/s41612-022-00308-9)
 

@@ -22,14 +22,27 @@ Seoul National University, South Korea
 Geosciences, The University of Sydney, Australia
 
 
-
 <center><div>
 <img src="/assets/solo_2-min.png" width="60%" alt="PhD graduation"></div>
 <p><small><italic> At PhD commencement </italic></small></p>
 </center>
 
 
-## Employment
+## Professional Appointments
+**2022 SP – present**
+Sejong Science Fellow, Kyungpook National University
+- Principal Investigator, National Research Foundation of Korea ($500K for 2023-2027)
+- Project title: Identifying structural changes of tropical cyclones during landfall to the Korean Peninsula using radar and mesoscale modeling
+
+**2022 SP – present**
+Postdoctoral Fellow, Colorado State University
+- Supervisor: Michael M. Bell
+- Projects: [NSF PRECIP field campaign](http://precip.org/), [ONR TCRI project](https://www.nre.navy.mil/organization/departments/code-32/division-322/marine-meteorology-space/tcri-dri), [NSF CIF SEA-POL radar](https://seapol.colostate.edu/)
+
+**2022 Fall**
+Visiting Scientist, MMM Lab, National Center for Atmospheric Research (NCAR)
+- Host: Falko Judt
+- Project title: Resilience and efficiency of initial vortex in sheared environments depending on internal vortex profiles in the MPAS model
 
 **2017 FA – 2021 FA**
 Graduate Research Assistant (Ph.D.), Colorado State University
@@ -69,9 +82,11 @@ Undergraduate Research Intern, Department of Oceanography, Seoul National Univer
 </center>
 
 ## Field Campaign
+2022 September
+ONR Tropical Cyclone Rapid Intensification (TCRI) forecaster lead
 
 2022 May - Aug
-Radiosonde and radar operation during PRECIP field campaign at Yonaguni Island, Japan
+**Lead Scientist for Yonaguni site**, Radiosonde and radar operation during PRECIP field campaign at Yonaguni Island, Japan
 
 2021 May – Aug
 Radiosonde and radar operation during “PRE”-CIP field campaign

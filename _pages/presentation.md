@@ -15,17 +15,28 @@ permalink: /presentations/
 <br>
 
 <center><div>
-<img src="/assets/defense_talk.png" width="80%" alt="seminar_image"></div>
+<img src="/assets/defense_talk.png" width="70%" alt="seminar_image"></div>
 <p><small><italic> PhD Defense Seminar at CSU </italic></small></p>
 </center>
 
+### 2023
+**Invited talk**, Department Seminar, "Multi-scale Interactions Leading to Tropical Cyclogenesis in Sheared Environments", Department of Earth, Ocean and Atmospheric Science, Florida State University
 
+Oral presentation, “The Climatology and Structure of Elongated Rainbands of TCs in the WNP Monsoon Region”, 33rd AMS annual meeting, Denver
 
 ### 2022
-**Invited talk**, "Multi-scale interactions leading totropical cyclogenesisin sheared environments", Kyubook National Univ. (KNU) at Daegu, South Korea
+Happy Hour Seminar, “Exploring the vortex resilience in various dry and sheared environments for tropical cyclone genesis and intensification”, NCAR MMM division
+
+Oral presentation, “Tropical cyclone genesis bifurcation points and sensitivities in sheared environments”, the 35th AMS Conference on Hurricanes and Tropical Meteorology
+
+**Invited talk**, Department Seminar, "Multi-scale interactions leading totropical cyclogenesisin sheared environments", Kyubook National Univ. (KNU) at Daegu, South Korea
 
 ### 2021
-Oral presentation, “Bifurcation points for tropical cyclone genesis in sheared and dry environments”, the 14th International Conference on Mesoscale Convective Systems and High-Impact Weather in East Asia (ICMCS-XIV)
+Oral presentation, “Bifurcation points for tropical cyclone genesis in sheared and dry environments”, the 14th International Conference on Mesoscale Convective Systems and High-Impact Weather in East Asia (ICMCS-XIV), **Best Student Oral Presentation**
+
+<center><div>
+<img src="/assets/website_news_chelsea_award.png" width="60%" alt="Award image"></div>
+</center>
 
 ### 2020
 **Invited talk**, “Tropical cyclone formation mechanism observed by airborne and shipborne radars”, National Institute of Meteorological Science (NIMS) at Jeju, South Korea
