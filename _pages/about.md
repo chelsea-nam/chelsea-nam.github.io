@@ -29,7 +29,7 @@ Geosciences, The University of Sydney, Australia
 
 
 ## Professional Appointments
-**2022 SP – present**
+**2023 SP – present**
 Sejong Science Fellow, Kyungpook National University
 - Principal Investigator, National Research Foundation of Korea ($500K for 2023-2027)
 - Project title: Identifying structural changes of tropical cyclones during landfall to the Korean Peninsula using radar and mesoscale modeling
