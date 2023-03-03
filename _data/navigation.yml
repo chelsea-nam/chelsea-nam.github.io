@@ -1,13 +1,14 @@
 # main links
 main:
-  - title: "About"
+  - title: "Bio"
     url: /about/
+  - title: "Publications"
+    url: "/publications/"
   - title: "Research"
     url: "https://tropical.colostate.edu/member_research/nam.html"
   - title: "Presentations"
     url: /presentations/
-  - title: "Publications"
-    url: "/publications/"
+
   - title: "Contact"
     url: /contact/
 
