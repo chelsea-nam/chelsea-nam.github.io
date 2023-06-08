@@ -105,10 +105,9 @@ author:
   name             : "Dr. Chaehyeon Chelsea Nam"
   avatar           : "/assets/CNam_head.png"
   bio              : >-
-    남채현 박사의 홈페이지에 오신 것을 환영합니다.
-    Welcome to my homepage!
-    I am a Sejong postdoctoral fellow who studies tropical cyclones using radar observations and numerical simulations.
-    Contact me via email if you have any questions :)
+    - Assistant Professor (starting Dec 2023) at Florida State University
+
+    - Sejong Postdoctoral Fellow at Colorado State University and Kyungpook National University
   location         : "Fort Collins, CO, USA"
   affiliation      : "CSU & KNU"
   # email            : "seapol-request@lists.colostate.edu"
@@ -122,6 +121,10 @@ author:
     - label: "KNU Center for Atmospheric Remote Sensing"
       icon: "fas fa-fw fa-link"
       url: "http://care.knu.ac.kr/home/"
+    - label: "FSU EOAS department"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.eoas.fsu.edu/"
+      
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
