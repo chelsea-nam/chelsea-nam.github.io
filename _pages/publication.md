@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Peer-Reviewed Journal
 
-**Nam, C. C.**, M. M. Bell, D. Tao, *Accepted*: [Bifurcation points for tropical cyclone genesis in sheared and dry environments.](/assets/Nam_etal_2023_JAS.pdf), *Journal of Atmospheric Sciences*.
+**Nam, C. C.**, M. M. Bell, D. Tao, 2023: [Bifurcation points for tropical cyclone genesis in sheared and dry environments.](/assets/Nam_etal_2023_JAS.pdf), *Journal of Atmospheric Sciences*. [https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0100.1/JAS-D-22-0100.1.xml](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0100.1/JAS-D-22-0100.1.xml)
 
 **Nam, C. C.**, D-S R. Park, C-H Ho, 2023: [Decisive factors of tropical cyclone risk in the Republic of Korea: intensity, track, and extratropical transition](/assets/Nam_etal_2023_APJAS.pdf). *Asia-Pacific Journal of Atmospheric Sciences*., [https://doi.org/10.1007/s13143-023-00318-4](https://doi.org/10.1007/s13143-023-00318-4)
 
