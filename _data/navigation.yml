@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Publications"
     url: "/publications/"
-  - title: "Research"
-    url: "https://tropical.colostate.edu/member_research/nam.html"
+  # - title: "Research"
+  #   url: "https://tropical.colostate.edu/member_research/nam.html"
   - title: "Presentations"
     url: /presentations/
 

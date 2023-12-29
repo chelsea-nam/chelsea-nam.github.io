@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 locale                   : "en-US"
 title                    : "Chelsea Nam (Ph.D)"
 title_separator          : "-"
-subtitle                 : "Tropical Cyclone Researcher's Personal Homepage"
+subtitle                 : "FSU Tropical Cyclone & Radar Research Lab"
 name                     : "Chaehyeon Chelsea Nam"
-description              : "Tropical cyclone researcher (Sejong postdoctoral fellow) at Colorado State University"
+description              : "Research Lab led by Prof. Nam in the Department of Earth, Ocean, and Atmospheric Science (EOAS) at Florida State University (FSU)"
 url                      : "https://chelsea-nam.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "/chelsea-nam/chelsea-nam.github.io"
@@ -105,26 +105,24 @@ author:
   name             : "Dr. Chaehyeon Chelsea Nam"
   avatar           : "/assets/CNam_head.png"
   bio              : >-
-    - Assistant Professor (starting Dec 2023) at Florida State University
-
-    - Sejong Postdoctoral Fellow at Colorado State University and Kyungpook National University
-  location         : "Fort Collins, CO, USA"
-  affiliation      : "CSU & KNU"
+    - Assistant Professor at FSU
+  location         : "Tallahassee, FL, USA"
+  affiliation      : "Florida State University"
   # email            : "seapol-request@lists.colostate.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ccnam@colostate.edu"
-    - label: "CSU Tropical Weather & Climate Research Group"
-      icon: "fas fa-fw fa-link"
-      url: "https://tropical.colostate.edu/"
-    - label: "KNU Center for Atmospheric Remote Sensing"
-      icon: "fas fa-fw fa-link"
-      url: "http://care.knu.ac.kr/home/"
+      url: "mailto:ccnam@fsu.edu"
+    # - label: "CSU Tropical Weather & Climate Research Group"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://tropical.colostate.edu/"
+    # - label: "KNU Center for Atmospheric Remote Sensing"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "http://care.knu.ac.kr/home/"
     - label: "FSU EOAS department"
       icon: "fas fa-fw fa-link"
       url: "https://www.eoas.fsu.edu/"
-      
+
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
