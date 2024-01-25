@@ -29,12 +29,15 @@ Geosciences, The University of Sydney, Australia
 
 
 ## Professional Appointments
-**2023 SP – present**
+**2024 SP - present**
+Assistant Professor, Department of Earth, Ocean & Atmospheric Science, Florida State University
+
+**2023 SP – 2023 FA**
 Sejong Science Fellow, Kyungpook National University
 - Principal Investigator, National Research Foundation of Korea ($500K for 2023-2027)
 - Project title: Identifying structural changes of tropical cyclones during landfall to the Korean Peninsula using radar and mesoscale modeling
 
-**2022 SP – present**
+**2022 SP – 2023 FA**
 Postdoctoral Fellow, Colorado State University
 - Supervisor: Michael M. Bell
 - Projects: [NSF PRECIP field campaign](http://precip.org/), [ONR TCRI project](https://www.nre.navy.mil/organization/departments/code-32/division-322/marine-meteorology-space/tcri-dri), [NSF CIF SEA-POL radar](https://seapol.colostate.edu/)
