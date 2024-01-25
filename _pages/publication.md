@@ -12,6 +12,8 @@ permalink: /publications/
 
 **Nam, C. C.**, M. M. Bell, D. Tao, 2023: [Bifurcation points for tropical cyclone genesis in sheared and dry environments.](/assets/Nam_etal_2023_JAS.pdf), *Journal of Atmospheric Sciences*. [https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0100.1/JAS-D-22-0100.1.xml](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0100.1/JAS-D-22-0100.1.xml)
 
+Rajasree, V.P.M., X. Cao, H. Ramsay, K. M. Núñez Ocasio, G. Kilroy, G. R. Alvey III., M. Chang, **C. C. Nam**, H. Fudeyasu, H.-F. Teng, H. Yu, 2023: [Tropical cyclogenesis: controlling factors and physical mechanisms](/assets/TCRR_2023.pdf), *Tropical Cyclone Research and Review*, [https://doi.org/10.1016/j.tcrr.2023.09.004](https://doi.org/10.1016/j.tcrr.2023.09.004).
+
 **Nam, C. C.**, D-S R. Park, C-H Ho, 2023: [Decisive factors of tropical cyclone risk in the Republic of Korea: intensity, track, and extratropical transition](/assets/Nam_etal_2023_APJAS.pdf). *Asia-Pacific Journal of Atmospheric Sciences*., [https://doi.org/10.1007/s13143-023-00318-4](https://doi.org/10.1007/s13143-023-00318-4)
 
 Kim, D., D-S R. Park, **C. C. Nam**, M. M. Bell, 2022: [The parametric hurricane rainfall model with moisture and its application to climate change projections](/assets/Kim_etal_npj_2022.pdf). *npj Climate and Atmospheric Science*, 5, 86, [https://doi.org/10.1038/s41612-022-00308-9](https://doi.org/10.1038/s41612-022-00308-9)
@@ -33,3 +35,6 @@ Nam, C. C., 2021: [Multi-Scale Interactions Leading to Tropical Cyclogenesis in 
 
 ### Master's thesis
 Nam, C. C., 2017: [Typhoon track and extra-tropical transition as the decisive factors for the risk distribution in South Korea](/assets/MS_thesis_CNam.pdf), Seoul National University.
+
+## Patent
+Kim, D., D.-S. R. Park, and **C. C. Nam**, System and method for predicting typhoon precipitation distribution using the parametric hurricane rainfall model with moisture, Korean Patent P-2023-012-01-KR, filed March 31, 2023.
