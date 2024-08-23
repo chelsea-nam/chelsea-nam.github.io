@@ -1,5 +1,7 @@
 # main links
 main:
+  # - title: "Group"
+  #   url: /group/
   - title: "Bio"
     url: /about/
   - title: "Publications"
