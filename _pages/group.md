@@ -1,57 +1,57 @@
 ---
 title: "Group Members"
 layout: splash
-author_profile: false
 classes:
   - wide
-  - dark-theme
+  - center
+author_profile: false
 permalink: /group/  
-
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/fsu_banner.jpg
-  excerpt: "FSU Westcott Fountain"
+  image: /assets/banner_fsu.jpg
 
-intro:
--excerpt: 'Here's our research group!'
+feature_row_PI:
+  - image_path: /assets/profile_cnam_horizontal.jpg
+    alt: "Chelsea's headshot"
+    title: "Prof. Chaehyeon Chelsea Nam"
+    excerpt: "Chelsea is the principal investigator of the research group and an assistant professor in the in the Department of Earth, Ocean and Atmospheric Science (EOAS) at Florida State University (FSU). More details about my bio here: [Chelsea's CV](https://chelsea-nam.github.io/about/)"
 
-feature_row:
-- image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
-- image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-- image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row3:
-- image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-- image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_row_grad:
+  - image_path: /assets/profile_cstoll.JPG
+    alt: "Connor's headshot"
+    title: "Connor Stoll"
+    excerpt: "Master's student (joined 2024 Spring)"
+  - image_path: /assets/profile_atekoe.jpg
+    alt: "Abe's headshot"
+    title: "Abraham Tekoe"
+    excerpt: "Master's student (joined 2024 Fall)"
+feature_row_undergrad:
+  - image_path: /assets/profile_awalker.jpeg
+    alt: "Anna's headshot"
+    title: "Anna Walker"
+    excerpt: "Honor's thesis student (joined 2024 Summer)"
+  - image_path: /assets/profile_kcooper.jpg
+    alt: "Kristen's headshot"
+    title: "Kristen Cooper"
+    excerpt: "Honor's thesis student (joined 2024 Fall)"
+
 ---
+# Tropical Cyclone & Radar Research Lab
 
-<head>
-        <script src="https://kit.fontawesome.com/8e44de192d.js" crossorigin="anonymous"></script>
-</head>
+# Group Members
 
-<body>
+## Principal Investigator
 
-{% include feature_row id="intro" type="center" %}
+<!-- <center><div>
+<img src="/assets/profile_cnam_horizontal.jpg" width="40%" alt="Chelsea's headshot"></div>
+</center>
 
-{% include feature_row %}
+<p style="text-align: center; font-weight: bold;">Prof. Chaehyeon Chelsea Nam</p> -->
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row_PI" type="left" %}
 
-{% include feature_row id="feature_row3" type="left" %}
-</body>
+
+## Graduate Students
+{% include feature_row id="feature_row_grad" type="center" %}
+
+## Undergraduate Students
+{% include feature_row id="feature_row_undergrad" type="center" %}

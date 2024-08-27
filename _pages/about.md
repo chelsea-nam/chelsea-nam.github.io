@@ -69,7 +69,11 @@ Undergraduate Research Intern, Department of Oceanography, Seoul National Univer
 
 
 ## Teaching Experiences
+**FSU**
+2024 SP
+Radar Meteorology (MET5411/4159)
 
+**CSU**
 2019 FA – 2021 FA
 *Graduate teaching certificate program*, the Institute for Learning and Teaching, Colorado State University (https://tilt.colostate.edu/ProDev/GTCertificates/)
 

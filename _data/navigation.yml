@@ -1,7 +1,7 @@
 # main links
 main:
-  # - title: "Group"
-  #   url: /group/
+  - title: "Group"
+    url: /group/
   - title: "Bio"
     url: /about/
   - title: "Publications"
@@ -11,8 +11,8 @@ main:
   - title: "Presentations"
     url: /presentations/
 
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
 
 
   # - title: "Sample Posts"

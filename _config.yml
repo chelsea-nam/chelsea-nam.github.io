@@ -104,13 +104,12 @@ analytics:
 author:
   name             : "Dr. Chaehyeon Chelsea Nam"
   avatar           : "/assets/CNam_head.png"
-  bio              : >-
-    - Assistant Professor at FSU
+  bio              : "Assistant Professor"
   location         : "Tallahassee, FL, USA"
   affiliation      : "Florida State University"
   # email            : "seapol-request@lists.colostate.edu"
   links:
-    - label: "Email"
+    - label: "ccnam [at] fsu.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ccnam@fsu.edu"
     # - label: "CSU Tropical Weather & Climate Research Group"
@@ -119,10 +118,12 @@ author:
     # - label: "KNU Center for Atmospheric Remote Sensing"
     #   icon: "fas fa-fw fa-link"
     #   url: "http://care.knu.ac.kr/home/"
-    - label: "FSU EOAS department"
+    - label: "Department of Earth, Ocean, and Atmospheric Science (EOAS)"
       icon: "fas fa-fw fa-link"
       url: "https://www.eoas.fsu.edu/"
-
+    - label: "Florida State University"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.fsu.edu/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
