@@ -118,7 +118,7 @@ author:
     # - label: "KNU Center for Atmospheric Remote Sensing"
     #   icon: "fas fa-fw fa-link"
     #   url: "http://care.knu.ac.kr/home/"
-    - label: "Department of Earth, Ocean, and Atmospheric Science (EOAS)"
+    - label: "Department of EOAS (Earth, Ocean, and Atmospheric Science)"
       icon: "fas fa-fw fa-link"
       url: "https://www.eoas.fsu.edu/"
     - label: "Florida State University"
