@@ -13,7 +13,7 @@ feature_row_PI:
   - image_path: /assets/profile_cnam_horizontal.jpg
     alt: "Chelsea's headshot"
     title: "Prof. Chaehyeon Chelsea Nam"
-    excerpt: "Chelsea is the principal investigator of the research group and an assistant professor in the in the Department of Earth, Ocean and Atmospheric Science (EOAS) at Florida State University (FSU). More details about my bio here: [Chelsea's CV](https://chelsea-nam.github.io/about/)"
+    excerpt: "Chelsea is the principal investigator of the research group and an assistant professor in the Department of Earth, Ocean and Atmospheric Science (EOAS) at Florida State University (FSU). More details about Chelsea's bio can be found here: [Chelsea's CV](https://chelsea-nam.github.io/about/)"
 
 feature_row_grad:
   - image_path: /assets/profile_cstoll.JPG
