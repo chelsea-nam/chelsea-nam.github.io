@@ -14,10 +14,10 @@ permalink: /presentations/
 </center> -->
 <br>
 
-<center><div>
+<!-- <center><div>
 <img src="/assets/defense_talk.png" width="70%" alt="seminar_image"></div>
 <p><small><italic> PhD Defense Seminar at CSU </italic></small></p>
-</center>
+</center> -->
 
 ### 2023
 **Invited talk**, Department Seminar, "Multi-scale Interactions Leading to Tropical Cyclogenesis in Sheared Environments", Department of Earth, Ocean and Atmospheric Science, Florida State University
@@ -29,7 +29,7 @@ Happy Hour Seminar, “Exploring the vortex resilience in various dry and sheare
 
 Oral presentation, “Tropical cyclone genesis bifurcation points and sensitivities in sheared environments”, the 35th AMS Conference on Hurricanes and Tropical Meteorology
 
-**Invited talk**, Department Seminar, "Multi-scale interactions leading totropical cyclogenesisin sheared environments", Kyubook National Univ. (KNU) at Daegu, South Korea
+**Invited talk**, Department Seminar, "Multi-scale interactions leading totropical cyclogenesisin sheared environments", Kyungpook National Univ. (KNU) at Daegu, South Korea
 
 ### 2021
 Oral presentation, “Bifurcation points for tropical cyclone genesis in sheared and dry environments”, the 14th International Conference on Mesoscale Convective Systems and High-Impact Weather in East Asia (ICMCS-XIV), **Best Student Oral Presentation**
@@ -39,7 +39,7 @@ Oral presentation, “Bifurcation points for tropical cyclone genesis in sheared
 </center>
 
 ### 2020
-**Invited talk**, “Tropical cyclone formation mechanism observed by airborne and shipborne radars”, National Institute of Meteorological Science (NIMS) at Jeju, South Korea
+**Invited talk**, “Tropical cyclone formation mechanism observed by airborne and shipborne radars”, National Institute of Meteorological Sciences (NIMS) at Jeju, South Korea
 
 ### 2019
 Oral presentation, “Bifurcation points for tropical cyclone genesis in sheared and dry environments”, American Geophysical Union (AGU) Fall Meeting 2019
