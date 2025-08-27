@@ -21,20 +21,17 @@ feature_row_grad:
   - image_path: /assets/profile_cstoll.JPG
     alt: "Connor's headshot"
     title: "Connor Stoll"
-    excerpt: "Master's student (joined 2024 Spring)"
+    excerpt: "PhD student (joined 2024 Spring)"
   - image_path: /assets/profile_atekoe.jpg
     alt: "Abe's headshot"
     title: "Abraham Tekoe"
     excerpt: "Master's student (joined 2024 Fall)"
-feature_row_undergrad:
-  - image_path: /assets/profile_awalker.jpeg
-    alt: "Anna's headshot"
-    title: "Anna Walker"
-    excerpt: "Honor's thesis student (joined 2024 Summer)"
-  - image_path: /assets/profile_kcooper.jpg
-    alt: "Kristen's headshot"
-    title: "Kristen Cooper"
-    excerpt: "Honor's thesis student (joined 2024 Fall)"
+  - image_path: /assets/profile_tdao.jpg
+    alt: "Tan's headshot"
+    title: "Tan Dao"
+    excerpt: "Master's student (joined 2025 Fall)"
+<!-- feature_row_undergrad: -->
+
 
 ---
 # Tropical Cyclone & Radar Research Lab
@@ -55,5 +52,10 @@ feature_row_undergrad:
 ## Graduate Students
 {% include feature_row id="feature_row_grad" type="center" %}
 
-## Undergraduate Students
-{% include feature_row id="feature_row_undergrad" type="center" %}
+<!-- ## Undergraduate Students
+{% include feature_row id="feature_row_undergrad" type="center" %} -->
+
+## Past Members
+
+* Anna Walker (2024 Summer - 2025 Spring), Undergraduate Honor's thesis student, Currently graduate student at SUNY Albany
+* Kristen Cooper (2024 Fall - 2025 Spring), Undergraduate Honor's thesis student, Currently graduate student at University of Oklahoma
