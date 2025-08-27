@@ -10,6 +10,8 @@ permalink: /publications/
 
 ## Peer-Reviewed Journal
 
+Yang, S., HJ Bae, M. Bourassa, **C. C. Nam**, S. Cocke, DW Shin, B. W. Barr, H. Seo, DH Cha, MH Kwon, D. Kim. MS Park, KY Jeong, and BM Kim, 2025: [Sea spray effects on typhoon prediction in the Yellow and East China Seas: case studies using a coupled atmosphere-ocean-wave model for Lingling (2019) and Maysak (2020)](/assets/Yang_etal_2025_ERL.pdf), *Environmental Research Letters*, [https://iopscience.iop.org/article/10.1088/1748-9326/adc616](https://iopscience.iop.org/article/10.1088/1748-9326/adc616)H
+
 Yang, S., DW Shin, S. Cocke, **C. C. Nam**, M. Bourassa, D.-H. Cha, B.-M. Kim, 2024: [Unveiling the pivotal influence of sea spray heat fluxes on hurricane rapid intensification.](/assets/Yang_etal_2024_ERL.pdf), *Environmental Research Letters*, [https://iopscience.iop.org/article/10.1088/1748-9326/ad7ee0](https://iopscience.iop.org/article/10.1088/1748-9326/ad7ee0)
 
 **Nam, C. C.**, M. M. Bell, D. Tao, 2023: [Bifurcation points for tropical cyclone genesis in sheared and dry environments.](/assets/Nam_etal_2023_JAS.pdf), *Journal of Atmospheric Sciences*. [https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0100.1/JAS-D-22-0100.1.xml](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-22-0100.1/JAS-D-22-0100.1.xml)
