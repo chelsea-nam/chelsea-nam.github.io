@@ -13,7 +13,7 @@ header:
 feature_row_group:
   - image_path: /assets/group_photo_AMS_trop.jpg
     alt: "NAM group at AMS tropical San Diego"
-    title: "Nam Lab in San Diego at AMS Tropical & Hurricane Conference (April 2026)"
+    excerpt: "Nam Lab in San Diego at AMS Tropical & Hurricane Conference (April 2026)"
 
 
 feature_row_PI:
@@ -42,7 +42,7 @@ feature_row_undergrad:
   - image_path: /assets/profile_mdavis.png
     alt: "Melina's heasdshot"
     title: "Melina Davis"
-    exceprpt: "Undergraduate Honors student (joined 2026 Spring)"
+    excerpt: "Undergraduate Honor's student (joined 2026 Spring)"
 
 
 ---

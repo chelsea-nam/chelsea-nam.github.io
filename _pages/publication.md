@@ -7,7 +7,8 @@ classes:
 permalink: /publications/  
 ---
 > Click the title and you can download the full article or thesis PDF files.
-> Bold indicate group members.
+
+> Bold indicates group members.
 
 ## Peer-Reviewed Journal
 **Nam, C. C.**, Chai, D., Kim, K., Shin, S., Lee, Y., Lee, J., Kim, J., Chang, E., Kim, J., Kwon, B., Lim, K., Park, M., Park, H., Kang, H., Park, S., Lee, Y. and Lee, G., 2026: [How to maximize the educational benefits for students participating in a meteorological field campaign.](/assets/Nam_etal_BAMS_2026.pdf), *Bull. Amer. Meteor. Soc.*, BAMS-D-24-0154.1, https://doi.org/10.1175/BAMS-D-24-0154.1, in press.
