@@ -7,10 +7,16 @@ classes:
 permalink: /publications/  
 ---
 > Click the title and you can download the full article or thesis PDF files.
+> Bold indicate group members.
 
 ## Peer-Reviewed Journal
+**Nam, C. C.**, Chai, D., Kim, K., Shin, S., Lee, Y., Lee, J., Kim, J., Chang, E., Kim, J., Kwon, B., Lim, K., Park, M., Park, H., Kang, H., Park, S., Lee, Y. and Lee, G., 2026: [How to maximize the educational benefits for students participating in a meteorological field campaign.](/assets/Nam_etal_BAMS_2026.pdf), *Bull. Amer. Meteor. Soc.*, BAMS-D-24-0154.1, https://doi.org/10.1175/BAMS-D-24-0154.1, in press.
 
-Yang, S., HJ Bae, M. Bourassa, **C. C. Nam**, S. Cocke, DW Shin, B. W. Barr, H. Seo, DH Cha, MH Kwon, D. Kim. MS Park, KY Jeong, and BM Kim, 2025: [Sea spray effects on typhoon prediction in the Yellow and East China Seas: case studies using a coupled atmosphere-ocean-wave model for Lingling (2019) and Maysak (2020)](/assets/Yang_etal_2025_ERL.pdf), *Environmental Research Letters*, [https://iopscience.iop.org/article/10.1088/1748-9326/adc616](https://iopscience.iop.org/article/10.1088/1748-9326/adc616)H
+**Nam, C. C.**, and M. M. Bell, 2026: [Monsoon Tail Rainbands and Tropical Cyclogenesis in the Western North Pacific: Climatology and a Typhoon Jebi (2018) Case Study.](/assets/Nam_Bell_JC_2026.pdf), *J. Climate*, 39, 2209–2225, https://doi.org/10.1175/JCLI-D-25-0092.1.
+
+Winkler, M., Rixen, M., Beucher, F., Couvreux, F., **Nam, C. C.**, Peyrillé, P., Schmidt, H., Segura, H., Wieners, K.-H., Alkilani-Brown, E., Coly, A. A., Biagioli, G., Bell, M. M., Brito, E., Chauvin, E., Capo, J., Colón-Burgos, D., Dawes, A., da Luz, J. C., Demiralay, Z., Douet, V., Ducastin, V., Dufaux, C., Dufresne, J.-L., Favot, F., Fiolleau, T., Fons, E., George, G., Gloeckner, H. M., Gonçalves, S., Gouttesoulard, L., Hayo, L., Hsiao, W.-T., Kennison, S., Kopelman, M., Lee, T.-Y., Le Gall, E., Lovato, M., Luschen, E., Maury, N., McKim, B., Netz, L., Ousseynou, D., Peters-von Gehlen, K., Pope, C., Poujol, B., Rivera Maldonado, N., Robbins-Blanch, N., Rochetin, N., Rowe, D., Romero Jure, P., Ruppert Jr., J. H., Segura Bermudez, J., Starr, J. C., Stelzner, M., **Stoll, C.**, Syrett, M., **Tekoe, A.**, Trules, J., Welty, C., Klocke, D., Vogel, R., Bony, S., Wing, A. A., and Stevens, B., 2026: [RAPSODI: radiosonde atmospheric profiles from ship and island platforms during ORCESTRA collected to Decipher the ITCZ.](/assets/Wrinkler_etal_2026.pdf), *Earth Syst. Sci. Data*, 18, 1833–1854, https://doi.org/10.5194/essd-18-1833-2026.
+
+Yang, S., HJ Bae, M. Bourassa, **C. C. Nam**, S. Cocke, DW Shin, B. W. Barr, H. Seo, DH Cha, MH Kwon, D. Kim. MS Park, KY Jeong, and BM Kim, 2025: [Sea spray effects on typhoon prediction in the Yellow and East China Seas: case studies using a coupled atmosphere-ocean-wave model for Lingling (2019) and Maysak (2020)](/assets/Yang_etal_2025_ERL.pdf), *Environmental Research Letters*, [https://iopscience.iop.org/article/10.1088/1748-9326/adc616](https://iopscience.iop.org/article/10.1088/1748-9326/adc616)
 
 Yang, S., DW Shin, S. Cocke, **C. C. Nam**, M. Bourassa, D.-H. Cha, B.-M. Kim, 2024: [Unveiling the pivotal influence of sea spray heat fluxes on hurricane rapid intensification.](/assets/Yang_etal_2024_ERL.pdf), *Environmental Research Letters*, [https://iopscience.iop.org/article/10.1088/1748-9326/ad7ee0](https://iopscience.iop.org/article/10.1088/1748-9326/ad7ee0)
 

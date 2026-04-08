@@ -9,6 +9,13 @@ permalink: /group/
 header:
   image: /assets/banner_fsu.jpg
 
+
+feature_row_group:
+  - image_path: /assets/group_photo_AMS_trop.jpg
+    alt: "NAM group at AMS tropical San Diego"
+    title: "Nam Lab in San Diego at AMS Tropical & Hurricane Conference (April 2026)"
+
+
 feature_row_PI:
   - image_path: /assets/profile_cnam_horizontal.jpg
     alt: "Chelsea's headshot"
@@ -30,7 +37,12 @@ feature_row_grad:
     alt: "Tan's headshot"
     title: "Tan Dao"
     excerpt: "Master's student (joined 2025 Fall)"
-<!-- feature_row_undergrad: -->
+
+feature_row_undergrad:
+  - image_path: /assets/profile_mdavis.png
+    alt: "Melina's heasdshot"
+    title: "Melina Davis"
+    exceprpt: "Undergraduate Honors student (joined 2026 Spring)"
 
 
 ---
@@ -38,7 +50,10 @@ feature_row_grad:
 
 # Group Members
 
+{% include feature_row id="feature_row_group" type="center" %}
+
 ## Principal Investigator
+
 
 <!-- <center><div>
 <img src="/assets/profile_cnam_horizontal.jpg" width="40%" alt="Chelsea's headshot"></div>
@@ -52,8 +67,8 @@ feature_row_grad:
 ## Graduate Students
 {% include feature_row id="feature_row_grad" type="center" %}
 
-<!-- ## Undergraduate Students
-{% include feature_row id="feature_row_undergrad" type="center" %} -->
+## Undergraduate Students
+{% include feature_row id="feature_row_undergrad" type="center" %}
 
 ## Past Members
 
