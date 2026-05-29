@@ -11,7 +11,7 @@ permalink: /publications/
 > Bold indicates group members.
 
 ## Peer-Reviewed Journal
-Choi, H.-Y., M. S. Park, C. C. Nam, M. M. Bell, and H.-S. Kim, 2026: [Modest ocean warming difference, explosive intensification: marine heatwave control of Typhoon Hagibis (2019).](/assets/Choi_etal_MHW_ERL_2026.pdf), *Environmental Research Letters*, 21, 10, https://doi.org/10.1088/1748-9326/ae6713
+Choi, H.-Y., M. S. Park, **C. C. Nam**, M. M. Bell, and H.-S. Kim, 2026: [Modest ocean warming difference, explosive intensification: marine heatwave control of Typhoon Hagibis (2019).](/assets/Choi_etal_MHW_ERL_2026.pdf), *Environmental Research Letters*, 21, 10, https://doi.org/10.1088/1748-9326/ae6713
 
 **Nam, C. C.**, Chai, D., Kim, K., Shin, S., Lee, Y., Lee, J., Kim, J., Chang, E., Kim, J., Kwon, B., Lim, K., Park, M., Park, H., Kang, H., Park, S., Lee, Y. and Lee, G., 2026: [How to maximize the educational benefits for students participating in a meteorological field campaign.](/assets/Nam_etal_BAMS_2026.pdf), *Bull. Amer. Meteor. Soc.*, BAMS-D-24-0154.1, https://doi.org/10.1175/BAMS-D-24-0154.1, in press.
 
