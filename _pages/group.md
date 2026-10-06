@@ -13,13 +13,15 @@ header:
 feature_row_group:
   - image_path: /assets/group_photo_Sep_2026.jpg
     alt: "NAM group at FSU EOAS Fluids Social with OU RaXPol radar"
-    excerpt: "Nam Lab in front of OU RaXPol radar during FSU EOAS Fluids Social (September 2026)<br>
-    (left to right) Abe, Connor, Chelsea, and Tan"
+    excerpt: "Nam Lab in front of OU RaXPol radar at department social <br>
+    September 2026<br>
+    (left to right) Dana, Tan, Connor, Chelsea and Lilly"
 
   - image_path: /assets/group_photo_AMS_trop.jpg
     alt: "NAM group at AMS tropical San Diego"
-    excerpt: "Nam Lab in San Diego at AMS Tropical & Hurricane Conference (April 2026) <br>
-    (left to right) Dana, Tan, Connor, Chelsea and Lilly"
+    excerpt: "Nam Lab in San Diego at AMS Tropical & Hurricane Conference <br>
+    April 2026<br>
+    (left to right) Abe, Connor, Chelsea, and Tan"
 
 
 feature_row_PI:
@@ -31,14 +33,6 @@ feature_row_PI:
     More details about Chelsea's bio can be found here: [Chelsea's CV](https://chelsea-nam.github.io/about/)"
 
 feature_row_grad:
-  <!-- - image_path: /assets/profile_cstoll.JPG
-    alt: "Connor's headshot"
-    title: "Connor Stoll"
-    excerpt: "PhD student (joined 2024 Spring)"
-  - image_path: /assets/profile_atekoe.jpg
-    alt: "Abe's headshot"
-    title: "Abraham Tekoe"
-    excerpt: "Master's student (joined 2024 Fall)" -->
   - image_path: /assets/profile_tdao.jpg
     alt: "Tan's headshot"
     title: "Tan Dao"
