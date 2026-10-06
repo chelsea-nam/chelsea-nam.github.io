@@ -11,9 +11,15 @@ header:
 
 
 feature_row_group:
+  - image_path: /assets/group_photo_Sep_2026.jpg
+    alt: "NAM group at FSU EOAS Fluids Social with OU RaXPol radar"
+    excerpt: "Nam Lab in front of OU RaXPol radar during FSU EOAS Fluids Social (September 2026)<br>
+    (left to right) Abe, Connor, Chelsea, and Tan"
+
   - image_path: /assets/group_photo_AMS_trop.jpg
     alt: "NAM group at AMS tropical San Diego"
-    excerpt: "Nam Lab in San Diego at AMS Tropical & Hurricane Conference (April 2026)"
+    excerpt: "Nam Lab in San Diego at AMS Tropical & Hurricane Conference (April 2026) <br>
+    (left to right) Dana, Tan, Connor, Chelsea and Lilly"
 
 
 feature_row_PI:
@@ -25,25 +31,32 @@ feature_row_PI:
     More details about Chelsea's bio can be found here: [Chelsea's CV](https://chelsea-nam.github.io/about/)"
 
 feature_row_grad:
-  - image_path: /assets/profile_cstoll.JPG
+  <!-- - image_path: /assets/profile_cstoll.JPG
     alt: "Connor's headshot"
     title: "Connor Stoll"
     excerpt: "PhD student (joined 2024 Spring)"
   - image_path: /assets/profile_atekoe.jpg
     alt: "Abe's headshot"
     title: "Abraham Tekoe"
-    excerpt: "Master's student (joined 2024 Fall)"
+    excerpt: "Master's student (joined 2024 Fall)" -->
   - image_path: /assets/profile_tdao.jpg
     alt: "Tan's headshot"
     title: "Tan Dao"
     excerpt: "Master's student (joined 2025 Fall)"
+  - image_path: /assets/headshot_Lilly.jpg
+    alt: "Lilly's headshot"
+    title: "Lilly Cargile"
+    excerpt: "Master's student (joined 2026 Fall)"
 
 feature_row_undergrad:
   - image_path: /assets/profile_mdavis.png
     alt: "Melina's heasdshot"
     title: "Melina Davis"
     excerpt: "Undergraduate Honor's student (joined 2026 Spring)"
-
+  - image_path: /assets/headshot_Dana.jpeg
+    alt: "Dana's heasdshot"
+    title: "Dana"
+    excerpt: "Undergraduate Honor's student (joined 2026 Spring)"
 
 ---
 # Tropical Cyclone & Radar Research Lab
@@ -71,6 +84,7 @@ feature_row_undergrad:
 {% include feature_row id="feature_row_undergrad" type="center" %}
 
 ## Past Members
-
+* Connor Stoll (2024 Spring - 2026 Fall), Master's student, Currently meteorologist at Florida Department of Emergency Management
+* Abraham Tekoe (2024 Fall - 2026 Summer), Master's student, Currently meteorologist at NWS Salt Lake City
 * Anna Walker (2024 Summer - 2025 Spring), Undergraduate Honor's thesis student, Currently graduate student at SUNY Albany
 * Kristen Cooper (2024 Fall - 2025 Spring), Undergraduate Honor's thesis student, Currently graduate student at University of Oklahoma
