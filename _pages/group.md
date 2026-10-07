@@ -49,7 +49,7 @@ feature_row_undergrad:
     excerpt: "Undergraduate Honor's student (joined 2026 Spring)"
   - image_path: /assets/headshot_Dana.jpeg
     alt: "Dana's heasdshot"
-    title: "Dana"
+    title: "Dana Fernandez-Greene"
     excerpt: "Undergraduate Honor's student (joined 2026 Spring)"
 
 ---
